@@ -1,7 +1,7 @@
 {
     "name": "Claude Code CLI",
     "id": "claude-code-native",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Installs the Claude Code CLI globally",
     "options": {},
     "customizations": {
